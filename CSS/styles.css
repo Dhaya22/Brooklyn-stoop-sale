@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
     background-image: url('https://github.com/nicefaa6waa/genshin-sddm-theme/blob/main/preview/1.png?raw=true');
 }
 .sale-details {
